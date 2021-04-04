@@ -12,7 +12,7 @@ This dataset collects information from 100k medical appointments in Brazil and i
 - DataAgendamento: The day someone called or registered the appointment, this is before appointment of course.
 - Age: How old is the patient.
 - Neighbourhood: Where the appointment takes place.
-- Scholarship: True of False . Observation, this is a broad topic, consider reading this article https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia
+- Scholarship: True of False 
 - Hipertension: True or False
 - Diabetes: True or False
 - Alcoholism: True or False
